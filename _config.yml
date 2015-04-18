@@ -1,11 +1,11 @@
 # Site settings
-title: Clean Blog
+title: Codude
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: learn@codude.com
+description: "Learn with fun at Codude"
 baseurl: ""
-url: "http://frazehmad.github.io"
-twitter_username: SBootstrap
+url: "http://codude.com"
+twitter_username: codude
 github_username:  davidtmiller
 facebook_username:  IronSummitMedia
 
